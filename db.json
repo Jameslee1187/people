@@ -1,0 +1,59 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "James Lee",
+      "gender": "M"
+    },
+    {
+      "id": 3,
+      "name": "Romi Ham",
+      "gender": "F"
+    },
+    {
+      "id": 4,
+      "name": "Tien Tran",
+      "gender": "F"
+    },
+    {
+      "id": 5,
+      "name": "Herbert Hoover",
+      "gender": "M"
+    },
+    {
+      "id": 6,
+      "name": "Rupert Pupkin",
+      "gender": "M"
+    },
+    {
+      "id": 7,
+      "name": "Jon Snow",
+      "gender": "M"
+    },
+    {
+      "id": 8,
+      "name": "Skylar White",
+      "gender": "F"
+    },
+    {
+      "id": 9,
+      "name": "Adam Smith",
+      "gender": "M"
+    },
+    {
+      "name": "Travis Desir",
+      "gender": "M",
+      "id": 10
+    },
+    {
+      "name": "Brian Yu",
+      "gender": "M",
+      "id": 11
+    },
+    {
+      "name": "Charlie Lee",
+      "gender": "M",
+      "id": 12
+    }
+  ]
+}
